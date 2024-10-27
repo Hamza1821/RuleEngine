@@ -6,10 +6,7 @@
 - [Technologies Used](#technologies-used)
 - [Project Structure](#project-structure)
 - [Setup Instructions](#setup-instructions)
-- [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
-- [License](#license)
+  
 
 ## Overview
 
